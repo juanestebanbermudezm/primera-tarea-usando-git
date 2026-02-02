@@ -13,15 +13,15 @@
 4. Un como perezoso
 5. Comprometido con mis deberes
 
-| ##    Lenguajes que manejo       |
-| -------------------------------- |
+## Lenguajes que manejo       
+
 | Python | HTML | JavaScript | C++ |
-| ---------------------------------- |
+|:------:|:----:|:----------:|:---:|
 | Basico | Intermedio | Basico | Nulo |
 
 > mis conocimientos sobre HTML y JavaScript fueron adquiridas por esta app
 
-![alt text](unnamed.webp)
+![Logo mimo](unnamed.webp)
 
 ```
 print("¡Hola mundo!")
